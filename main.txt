@@ -1,0 +1,12 @@
+Branch é uma ramificação no projeto
+que permite que funcionalidades sejam
+desenvolvidas separadamente sem impactar 
+funcionalidades estáveis no projeto.
+
+
+Source Control Management: é o gerenciamento do código-fonte de um projeto.
+Ele serve para:
+	- Guardar o histórico de tudo que foi feito no código.
+	- Permitir que várias pessoas trabalhem ao mesmo tempo no mesmo	projeto, sem bagunça.
+	- Ajudar a organizar versões diferentes do software.
+	- Facilitar a identificação de erros e a recuperação de versões antigas.
